@@ -1,0 +1,5 @@
+com\spatil\model\User.class
+com\spatil\Application.class
+com\spatil\dao\UserDao$1.class
+com\spatil\dao\UserDao.class
+com\spatil\controllers\UserController.class
